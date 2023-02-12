@@ -1,5 +1,5 @@
 ## Блог на технологии MERN
-
+![Image alt](https://github.com/IImagII/FullStack-Blog-Prodaction/blob/master/blog-mern.jpg)
 ### Использованный стек технологий:
 - React
 - Redux-toolkit
